@@ -12,13 +12,13 @@ menu:
         - name: La relativité
           link: /theories/relativite
         - name: La dilatation temporelle
-          link: /theories/dilatation-temporelle
+          link: /theories/Dilatation temporelle
   - name: Technologies presentes
     submenu: 
-        - name: Les satéllites
+        - name: Les avions supersoniques
+          link: /technologies-presentes/avion-supersonique
+        - name: Les satellites
           link: /technologies-presentes/satellites
-        - name: La station spatiale internationale
-          link: /technologies-presentes/station-spatiale
   - name: Technologies futures
     submenu: 
         - name: Les voyages intersidéraux
