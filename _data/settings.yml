@@ -13,7 +13,7 @@ menu:
           link: /theories/relativite
         - name: La dilatation temporelle
           link: /theories/Dilatation temporelle
-  - name: Technologies presentes
+  - name: Technologies présentes
     submenu: 
         - name: Les avions supersoniques
           link: /technologies presentes/Avion supersonique
