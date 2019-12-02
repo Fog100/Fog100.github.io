@@ -10,18 +10,18 @@ menu:
   - name: Théories
     submenu:
         - name: La relativité
-          link: théories/relativité
+          link: theories/relativite
         - name: La dilatation temporelle
-          link: théories/dilatation-temporelle
-  - name: Technologies présentes
+          link: theories/dilatation-temporelle
+  - name: Technologies presentes
     submenu: 
         - name: Les satéllites
-          link: technologies-présentes/satéllites
+          link: technologies-presentes/satellites
         - name: La station spatiale internationale
-          link: technologies-présentes/station-spatiale
+          link: technologies-presentes/station-spatiale
   - name: Technologies futures
     submenu: 
         - name: Les voyages intersidéraux
-          link: technologies-futures/voyages-intersidéraux
+          link: technologies-futures/voyages-intersideraux
         - name: Les voyages temporels
           link: technologies-futures/voyages-temporels
