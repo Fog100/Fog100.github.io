@@ -16,12 +16,16 @@ menu:
   - name: Technologies presentes
     submenu: 
         - name: Les avions supersoniques
-          link: /technologies presentes/avion supersonique
+          link: /technologies presentes/Avion supersonique
         - name: Les satellites
-          link: /technologies presentes/satellites
+          link: /technologies presentes/Satellites
   - name: Technologies futures
     submenu: 
         - name: Les voyages intersidéraux
-          link: /technologies futures/voyages intersideraux
+          link: /technologies futures/voyage intersideral
         - name: Les voyages temporels
-          link: /technologies futures/voyages temporels
+          link: /technologies futures/voyage temporel
+  - name: conclusion
+    link: /conclusion
+  - name: Sources
+    link: /sources
